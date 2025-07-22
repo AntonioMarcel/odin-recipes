@@ -1,3 +1,27 @@
-* {
-    outline: 2px solid red;
+body {
+    background-color: #1c1c1c;
+    color: lightgray;
+    font-family: Tahoma, Arial, Verdana;
+}
+
+a {
+    color: #8ab4f8;
+}
+
+h3 {
+    margin: 0;
+}
+.container-ingredients, .container-instructions {
+    background-color: #2a2a2a;
+    border: 1px solid #2e2e2e;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.menu {
+    background-color: #2a2a2a;
+    border: 1px solid #2e2e2e;
+    width: 15%;
+    text-align: center;
+
 }
